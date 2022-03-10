@@ -20,7 +20,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "/robofriends/",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#097d7f"
